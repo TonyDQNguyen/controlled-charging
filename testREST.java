@@ -20,10 +20,10 @@ public class testREST{
 
 		try {
 			HttpClient client = new DefaultHttpClient();
-			StringEntity data = new StringEntity("auth_data = {\"grant_type": "password\", 
+			StringEntity data = new StringEntity("{\"grant_type": "password\", 
 									"username": USERNAME\,
 									"password": PASSWORD\,
-									"scope":SCOPE});
+									"scope":SCOPE}");
 			HttpPost tokenRequest 
 				= new HttpPost("https://login.solarcity.com/issue/oauth2/token");
 			tokenRequest.addHeader("Authorization","Basic " + Base64.getEncoder().encodeToString(CLIENT_ID + ":" + CLIENT_SECRECT));
@@ -48,6 +48,8 @@ public class testREST{
 			accessToken = tokenReader.readline();
 			System.out.println("Access Token Obtained: " + accessToken);
 			tokenReader.close();
+				
+			//Close connnection	
 			client.getConnectionManager().shutdown();
 			
 		} catch (MalformedURLException e) {
