@@ -6,6 +6,7 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.DefaultHttpClient;
+import javax.json.*;
 
 
 public class testREST{
@@ -14,18 +15,19 @@ public class testREST{
 	public static string CLIENT_ID = "powerguide_api_dev";
 	public static string CLIENT_SECRET = "m+OxOfSw9E3daSXsl5Qt7yCI4TAxjRPAJcDa5BUbiJA=";
 	public static string SCOPE = "https://api.solarcity.com/solarguard/";
+	public static string TOKENURL = "https://login.solarcity.com/issue/oauth2/token";
 
 	public static void main(String[] args) {
 		
 
 		try {
 			HttpClient client = new DefaultHttpClient();
-			StringEntity data = new StringEntity("{\"grant_type": "password\", 
-									"username": USERNAME\,
-									"password": PASSWORD\,
-									"scope":SCOPE}");
+			StringEntity data = new StringEntity("{"grant_type": "password\n", 
+									"username": USERNAME \n,
+									"password": PASSWORD \n,
+									"scope":SCOPE \n}");
 			HttpPost tokenRequest 
-				= new HttpPost("https://login.solarcity.com/issue/oauth2/token");
+				= new HttpPost(TOKENURL);
 			tokenRequest.addHeader("Authorization","Basic " + Base64.getEncoder().encodeToString(CLIENT_ID + ":" + CLIENT_SECRECT));
 			tokenRequest.addHeader("content-type","application/json");
 			tokenRequest.setEntity(data);
@@ -36,18 +38,22 @@ public class testREST{
 				   + response.getStatusLine().getStatusCode());
 			}
 
-			BufferedReader tokenReader = new BufferedReader(
+			/*BufferedReader tokenReader = new BufferedReader{
 				 new InputStreamReader((response.getEntity().getContent()));
-			}
+			}*/
 			string accessToken;
-			
+			JsonReader jsonConverter = Json.createReader(response.getEntity().getContent());
+			JsonObject tokenObj = jsonConverter.readObject();
+			accessToken = tokenObj.getString("access_token");
+						    
 			//iterate inputStream to find access token
-			while ((accessToken = tokenReader.readLine()) != "access_token") {
+			/*while ((accessToken = tokenReader.readLine()) != "access_token") {
 				continue;
 			}
-			accessToken = tokenReader.readline();
+			tokenReader.close()
+			accessToken = tokenReader.readline();*/
 			System.out.println("Access Token Obtained: " + accessToken);
-			tokenReader.close();
+			;
 				
 			//Close connnection	
 			client.getConnectionManager().shutdown();
