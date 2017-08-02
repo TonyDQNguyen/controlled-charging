@@ -14,6 +14,9 @@ from decimal import Decimal
 
 ## Version 1.0 ##
 ## Note: This version is the crude, barebones implementation of DR features ##
+## Control Demand Checks site load based every pre-determined interval
+## then shed all actively charging stations according to user input demand cap
+
 ## Future updates: Implement DR based on users ##
 
 # The controlDemand class implements DR functionalities to the Chargepoint EVSE
@@ -105,21 +108,37 @@ class ControlDemand:
         try:
             while True:
                 siteLoad = getSiteLoad(sgIDs)
-                if siteLoad < (demandCap - 10):
+                if siteLoad < (demandCap - Decimal(16.6)):
                     print "Current site load is: " + str(siteLoad) + " kW"
-                    print "Clearing shed states on all stations"
+                    print "Clearing shed states"
                     client.service.clearShedState(shedQuery = {'shedGroup':{'sgID':'61195'}})
                     client.service.clearShedState(shedQuery = {'shedGroup':{'sgID':'61005'}})
                     client.service.clearShedState(shedQuery = {'shedGroup':{'sgID':'61003'}})
                     client.service.clearShedState(shedQuery = {'shedGroup':{'sgID':'61001'}})
                     client.service.clearShedState(shedQuery = {'shedGroup':{'sgID':'78673'}})
                     client.service.clearShedState(shedQuery = {'shedGroup':{'sgID':'61727'}})
-                elif siteLoad < (demandCap - 6.6):
+                elif siteLoad < (demandCap - 10):
+                    print "Current site load is: " + str(siteLoad) + " kW"
+                    print "Increasing load to reach demand cap"
+                    for i in range(0, len(stationIDs)):
+                        s = client.service.getLoad(searchQuery = {'stationID':stationIDs[i]})
+                        stationLoad = s['stationData'][0]['stationLoad']
+                        port1Load = s['stationData'][0]['Port'][0]['portLoad']
+                        port2Load = s['stationData'][0]['Port'][1]['portLoad']
+    
+                        if stationLoad == 0.0:
+                            continue
+                        else:
+                            if port1Load != 0.0 and port1Load <= Decimal(2.5):
+                                client.service.shedLoad(shedQuery = {'shedStation':{'stationID':stationIDs[i],'Ports':{'Port':{'portNumber':1,'allowedLoadPerPort':str(port1Load * Decimal(1.25))}}},'timeInterval':0})
+                            if port2Load != 0.0 and port2Load <= Decimal(2.5):
+                                client.service.shedLoad(shedQuery = {'shedStation':{'stationID':stationIDs[i],'Ports':{'Port':{'portNumber':2,'allowedLoadPerPort':str(port2Load * Decimal(1.25))}}},'timeInterval':0})
+                elif siteLoad < (demandCap - Decimal(6.6)):
                     print "Current site load is: " + str(siteLoad) + " kW"
                     print "Continue operations"
                     time.sleep(60)
                     continue
-                elif siteLoad >= (demandCap - 6.6):
+                elif siteLoad >= (demandCap - Decimal(6.6)):
                     print "Current site load is: " + str(siteLoad) + " kW"
                     print "Applying additional load shedding"
                     for i in range(0, len(stationIDs)):
@@ -130,10 +149,10 @@ class ControlDemand:
                         if stationLoad == 0.0:
                             continue
                         else:
-                            if port1Load != 0.0 or port1Load > Decimal(1.5):
-                                client.service.shedLoad(shedQuery = {'shedStation':{'stationID':stationIDs[i],'Ports':{'Port':{'portNumber':1,'allowedLoadPerPort':str(port1Load - Decimal(0.5))}}},'timeInterval':0})
-                            if port2Load != 0.0 or port2Load > Decimal(1.5):
-                                client.service.shedLoad(shedQuery = {'shedStation':{'stationID':stationIDs[i],'Ports':{'Port':{'portNumber':2,'allowedLoadPerPort':str(port2Load - Decimal(0.5))}}},'timeInterval':0})
+                            if port1Load != 0.0 or port1Load > Decimal(2.5):
+                                client.service.shedLoad(shedQuery = {'shedStation':{'stationID':stationIDs[i],'Ports':{'Port':{'portNumber':1,'allowedLoadPerPort':str(port1Load * Decimal(0.75))}}},'timeInterval':0})
+                            if port2Load != 0.0 or port2Load > Decimal(2.5):
+                                client.service.shedLoad(shedQuery = {'shedStation':{'stationID':stationIDs[i],'Ports':{'Port':{'portNumber':2,'allowedLoadPerPort':str(port2Load * Decimal(0.75))}}},'timeInterval':0})
                 time.sleep(120)
         except KeyboardInterrupt:
             print "Program Ended"
