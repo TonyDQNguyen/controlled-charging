@@ -1,0 +1,15 @@
+import csv
+
+with open('output.csv', 'wb') as output:
+    fieldnames = ['Volume', 'Symbol', 'Adj_Close', 'High', 'Low', 'Date', 'Close', 'Open']
+    writer = csv.DictWriter(output, fieldnames=fieldnames)
+    writer.writeheader()
+    writer = csv.writer(output)
+
+    for each in stock_data:
+        temp_list = []
+        for value in each.iteritems():
+            value = list(value)
+            temp_list.append(value[1])
+
+        writer.writerow(temp_list)

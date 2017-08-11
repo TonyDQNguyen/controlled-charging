@@ -1,0 +1,2827 @@
+
+(0)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(1)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(2)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(3)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(4)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(5)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(6)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(7)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(8)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(9)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(10)
+Station Load:3.374 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.374 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(11)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(12)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(13)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.870 kW
+
+(14)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(15)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(16)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(17)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(18)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(19)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(20)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(21)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(22)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(23)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(24)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(25)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(26)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(27)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(28)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(29)
+Station Load:2.772 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.772 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(30)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(31)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(32)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(33)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(34)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(35)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(36)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(37)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(38)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(39)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(40)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(41)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(42)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(43)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(44)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(45)
+Station Load:2.187 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.187 kW
+ Port 2 Allowed Load: 2.270 kW
+
+(46)
+Station Load:2.203 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.203 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(47)
+Station Load:2.295 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.295 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(48)
+Station Load:3.287 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.287 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(49)
+Station Load:1.446 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.446 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(50)
+Station Load:1.446 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.446 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(51)
+Station Load:1.446 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.446 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(52)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(53)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(54)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(55)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(56)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(57)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(58)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(59)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(60)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(61)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(62)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(63)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(64)
+Station Load:1.533 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.533 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(65)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(66)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(67)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(68)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(69)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(70)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(71)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(72)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(73)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(74)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(75)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(76)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(77)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(78)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(79)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(80)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(81)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(82)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(83)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(84)
+Station Load:1.708 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.708 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(85)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(86)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(87)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(88)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(89)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(90)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(91)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(92)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(93)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(94)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(95)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(96)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(97)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(98)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(99)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(100)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(101)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(102)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(103)
+Station Load:1.718 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.718 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(104)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(105)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(106)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(107)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(108)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(109)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(110)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(111)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(112)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(113)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(114)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(115)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(116)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(117)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(118)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(119)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(120)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(121)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(122)
+Station Load:1.729 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.729 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(123)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(124)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(125)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(126)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(127)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(128)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(129)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(130)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(131)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(132)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(133)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(134)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(135)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(136)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(137)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(138)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(139)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(140)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(141)
+Station Load:1.740 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.740 kW
+ Port 2 Allowed Load: 1.800 kW
+
+(142)
+Station Load:1.734 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 1.734 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(143)
+Station Load:2.602 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.602 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(144)
+Station Load:3.199 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.199 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(145)
+Station Load:3.243 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.243 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(146)
+Station Load:3.243 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.243 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(147)
+Station Load:3.276 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.276 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(148)
+Station Load:3.276 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.276 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(149)
+Station Load:3.276 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.276 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(150)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(151)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(152)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(153)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 0.000 kW
+
+(154)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(155)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(156)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(157)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(158)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(159)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(160)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(161)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(162)
+Station Load:3.308 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 3.308 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(163)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(164)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(165)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(166)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(167)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(168)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.810 kW
+
+(169)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(170)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(171)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(172)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(173)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(174)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(175)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(176)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(177)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(178)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(179)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(180)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(181)
+Station Load:2.738 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.738 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(182)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(183)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(184)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(185)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(186)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(187)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(188)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(189)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(190)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(191)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(192)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(193)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(194)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(195)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(196)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(197)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(198)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(199)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(200)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(201)
+Station Load:2.146 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.146 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(202)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(203)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(204)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(205)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(206)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(207)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(208)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(209)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(210)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(211)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(212)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(213)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(214)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(215)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(216)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(217)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(218)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(219)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(220)
+Station Load:2.194 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.194 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(221)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(222)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(223)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(224)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(225)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(226)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(227)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(228)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(229)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(230)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(231)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(232)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(233)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(234)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(235)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(236)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(237)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(238)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(239)
+Station Load:2.179 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.179 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(240)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(241)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(242)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(243)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(244)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(245)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(246)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(247)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(248)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(249)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(250)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(251)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(252)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(253)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(254)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(255)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
+
+(256)
+Station Load:2.183 kW
+
+ Port 1
+ Port 1 Load: 0.000 kW 
+ Port 1 Allowed Load: 0.000 kW
+
+ Port 2
+ Port 2 Load: 2.183 kW
+ Port 2 Allowed Load: 2.240 kW
