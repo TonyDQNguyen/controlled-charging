@@ -37,3 +37,5 @@ Refer to the Documentations section for official docs, usage appications, and ex
 
  5) getAHMStations.py: Script that queries and returns a dict of all AHM stations along with their respective load and port statuses
 
+ 6) chargepoint-api-test(2).py: Script used to test and observe Chargepoint API's method calls with different arguments and observe returned data.
+
