@@ -29,9 +29,11 @@ Refer to the Documentations section for official docs, usage appications, and ex
 # Important Scripts and Files
  1) ControlDemand.py: Contains the first algorithmic implementation of Demand Response functionalities which require testing and further development
 
- 2) write-load.py: Contains a function that continouously outputs a station's current load at each port and writes to a text file for real time testing and data acquisition
+ 2) abort.py: Script that returns all EVSEs to peak charging capacity. Make sure to run after testing and/or end of day
 
- 3) stations-excel-writer.py: Script that queries all AHM's stations information and save to an Excel spreadsheet at AHM_EVSEs_Index.xlsx
+ 3) write-load.py: Contains a function that continouously outputs a station's current load at each port and writes to a text file for real time testing and data acquisition
 
- 4) getAHMStations.py: Script that queries and returns a dict of all AHM stations along with their respective load and port statuses
+ 4) stations-excel-writer.py: Script that queries all AHM's stations information and save to an Excel spreadsheet at AHM_EVSEs_Index.xlsx
+
+ 5) getAHMStations.py: Script that queries and returns a dict of all AHM stations along with their respective load and port statuses
 
