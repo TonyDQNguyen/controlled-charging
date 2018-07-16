@@ -8,6 +8,7 @@ from types import *
 from datetime import datetime
 from datetime import timedelta
 
+## Use this test program to test various Chargepoint API methods to retrieve data for visualization (i.e. getLoad() for specific stations, groups) 
 
 USERNAME = '94a8e8abffb20dfc4826221c2b8ba1d058a46c3cd57e11487170620'
 PASSWORD = '0f503938100c2839c2f2fafe0cc6e406'

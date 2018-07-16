@@ -9,6 +9,7 @@ from datetime import datetime
 from datetime import timedelta
 import time as time
 
+# write_load() continously print and write a the inputted station's load at each port on the console and to a text file 'station_loads.txt' respectively
 def write_load(stationID):
     
     USERNAME = '94a8e8abffb20dfc4826221c2b8ba1d058a46c3cd57e11487170620'
@@ -34,7 +35,6 @@ def write_load(stationID):
                     text_file.write(text)
                 n+=1
                 time.sleep(15)
-        except KeyboardInterrupt:
+        except KeyboardInterrupt: # Terminate station load console output and file writing with CONTROL + C
             pass
                 
-write_load('1:115821')
