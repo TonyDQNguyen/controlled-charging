@@ -14,7 +14,7 @@ Refer to the Documentations section for official docs, usage appications, and ex
 # Documentations
 ## Chargepoint API
 
-**Chargepooint Developer Notes v4.1:** https://na.chargepoint.com/UI/downloads/en/ChargePoint_Web_Services_API_Guide_Ver4.1_Rev4.pdf
+**Chargepoint Developer Notes v4.1:** https://na.chargepoint.com/UI/downloads/en/ChargePoint_Web_Services_API_Guide_Ver4.1_Rev4.pdf
 **Zeep Python SOAP Client Docs:** http://docs.python-zeep.org/en/master/
 
 ## SolarCity Powerguide API
@@ -35,4 +35,3 @@ Refer to the Documentations section for official docs, usage appications, and ex
 
  4) getAHMStations.py: Script that queries and returns a dict of all AHM stations along with their respective load and port statuses
 
- 
